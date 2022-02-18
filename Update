@@ -1,0 +1,31 @@
+{
+
+"Update_Version" : "2.4",
+
+"Update_Message" : "อัพเดทใหม่ Realese บน PlayStore",
+
+"Update_Url" : "https://play.google.com/store/apps/details?id=com.cyrust.fftools",
+
+"Dialog_Info" : "จริง",
+
+"Dialog_Message" : "ใช้ Laser Full Supply อีกครั้งเป็นเวอร์ชันใช้งานได้ ff ffmax 70.1
+
+ข้อมูลอัพเดต 18 กุมภาพันธ์",
+
+"Dialog_Button" : "ตกลง",
+
+"Dialog_Url" : "",
+
+"Dialog_Action" : "เท็จ",
+
+"Layout_Message" : "ใช้งานได้กับ FF&FFMAX เวอร์ชัน 1.70.1 & 2.71.01 ดูบทช่วยสอน + เพิ่ม Beatz Token-Ruby เลเซอร์สีม่วงใหม่",
+
+"TextView" : "ดูส่วนหัวเท่านั้นไม่มี HS",
+
+"ข้อมูล" : "70.1",
+
+"กวดวิชา" : "จริง",
+
+"Tutorial_Url" : "https://youtu.be/jZ60y9ztQL0"
+
+}
